@@ -28,8 +28,7 @@ jobs:
         run: |
           python -m venv venv
           source venv/bin/activate
-          - name: Install ODBC drivers for SQL Server
-      - name: OBDC
+      - name: Install ODBC drivers for SQL Server
         run: |
           set -e
           UBUNTU_VERSION=$(grep VERSION_ID /etc/os-release | cut -d '"' -f 2)
