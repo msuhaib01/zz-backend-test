@@ -28,7 +28,24 @@ jobs:
         run: |
           python -m venv venv
           source venv/bin/activate
-      
+          - name: Install ODBC drivers for SQL Server
+      - name: OBDC
+        run: |
+          set -e
+          UBUNTU_VERSION=$(grep VERSION_ID /etc/os-release | cut -d '"' -f 2)
+          if ! [[ "20.04 22.04 24.04 24.10" == *"$UBUNTU_VERSION"* ]]; then
+              echo "Ubuntu $UBUNTU_VERSION is not currently supported."
+              exit 1
+          fi
+          curl -sSL -O https://packages.microsoft.com/config/ubuntu/$UBUNTU_VERSION/packages-microsoft-prod.deb
+          sudo dpkg -i packages-microsoft-prod.deb
+          rm packages-microsoft-prod.deb
+          sudo apt-get update
+          sudo ACCEPT_EULA=Y apt-get install -y msodbcsql18
+          sudo ACCEPT_EULA=Y apt-get install -y mssql-tools18
+          echo 'export PATH="$PATH:/opt/mssql-tools18/bin"' >> ~/.bashrc
+          sudo apt-get install -y unixodbc-dev
+
       - name: Install dependencies
         run: pip install -r requirements.txt
         
