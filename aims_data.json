@@ -1,0 +1,2058 @@
+[
+  {
+    "CityName": "Lahore",
+    "CropName": "Potato Fresh",
+    "Today's FQP/Average Price": "4250",
+    "Yesterday's FQP/Average Price": "3800",
+    "Change in Price": "+450",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lahore",
+    "CropName": "Ginger(China)",
+    "Today's FQP/Average Price": "55850",
+    "Yesterday's FQP/Average Price": "60500",
+    "Change in Price": "-4650",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lahore",
+    "CropName": "Spinach",
+    "Today's FQP/Average Price": "2700",
+    "Yesterday's FQP/Average Price": "2250",
+    "Change in Price": "+450",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lahore",
+    "CropName": "Cauliflower",
+    "Today's FQP/Average Price": "10250",
+    "Yesterday's FQP/Average Price": "11150",
+    "Change in Price": "-900",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lahore",
+    "CropName": "Pomegranate(Kandhari)",
+    "Today's FQP/Average Price": "60550",
+    "Yesterday's FQP/Average Price": "59650",
+    "Change in Price": "+900",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lahore",
+    "CropName": "Mango(Desahri)",
+    "Today's FQP/Average Price": "17700",
+    "Yesterday's FQP/Average Price": "19050",
+    "Change in Price": "-1350",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lahore",
+    "CropName": "Mango(Sindhri)",
+    "Today's FQP/Average Price": "23250",
+    "Yesterday's FQP/Average Price": "22850",
+    "Change in Price": "+400",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lahore",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "55850",
+    "Yesterday's FQP/Average Price": "60500",
+    "Change in Price": "-4650",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lahore",
+    "CropName": "Garlic (Local)",
+    "Today's FQP/Average Price": "19500",
+    "Yesterday's FQP/Average Price": "18500",
+    "Change in Price": "+1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lahore",
+    "CropName": "Apricot Yellow",
+    "Today's FQP/Average Price": "17700",
+    "Yesterday's FQP/Average Price": "17300",
+    "Change in Price": "+400",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lahore",
+    "CropName": "Loquat",
+    "Today's FQP/Average Price": "13000",
+    "Yesterday's FQP/Average Price": "12100",
+    "Change in Price": "+900",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Rawalpindi",
+    "CropName": "Garlic (China)",
+    "Today's FQP/Average Price": "32300",
+    "Yesterday's FQP/Average Price": "31850",
+    "Change in Price": "+450",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Rawalpindi",
+    "CropName": "Ginger(China)",
+    "Today's FQP/Average Price": "55900",
+    "Yesterday's FQP/Average Price": "60150",
+    "Change in Price": "-4250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Rawalpindi",
+    "CropName": "Spinach",
+    "Today's FQP/Average Price": "2600",
+    "Yesterday's FQP/Average Price": "2350",
+    "Change in Price": "+250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Rawalpindi",
+    "CropName": "Cauliflower",
+    "Today's FQP/Average Price": "9300",
+    "Yesterday's FQP/Average Price": "10200",
+    "Change in Price": "-900",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Rawalpindi",
+    "CropName": "Apple Kala Kullu (Pahari)",
+    "Today's FQP/Average Price": "23650",
+    "Yesterday's FQP/Average Price": "23450",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Rawalpindi",
+    "CropName": "Banana(DOZEN)",
+    "Today's FQP/Average Price": "148",
+    "Yesterday's FQP/Average Price": "146",
+    "Change in Price": "+2",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Rawalpindi",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "55900",
+    "Yesterday's FQP/Average Price": "60150",
+    "Change in Price": "-4250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Rawalpindi",
+    "CropName": "Lemon (China)",
+    "Today's FQP/Average Price": "23400",
+    "Yesterday's FQP/Average Price": "23300",
+    "Change in Price": "+100",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Rawalpindi",
+    "CropName": "Bottle Gourd (کدو)",
+    "Today's FQP/Average Price": "3650",
+    "Yesterday's FQP/Average Price": "3450",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Rawalpindi",
+    "CropName": "Zucchini (گھیا توری)",
+    "Today's FQP/Average Price": "9750",
+    "Yesterday's FQP/Average Price": "10200",
+    "Change in Price": "-450",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Rawalpindi",
+    "CropName": "Coriander (دھنیا)",
+    "Today's FQP/Average Price": "7650",
+    "Yesterday's FQP/Average Price": "8350",
+    "Change in Price": "-700",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "RahimYarKhan",
+    "CropName": "Wheat",
+    "Today's FQP/Average Price": "5952",
+    "Yesterday's FQP/Average Price": "5850",
+    "Change in Price": "+102",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "RahimYarKhan",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "53409",
+    "Yesterday's FQP/Average Price": "54319",
+    "Change in Price": "-910",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "RahimYarKhan",
+    "CropName": "Green Chilli",
+    "Today's FQP/Average Price": "7406",
+    "Yesterday's FQP/Average Price": "8060",
+    "Change in Price": "-654",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "RahimYarKhan",
+    "CropName": "Capsicum (شملہ مرچ)",
+    "Today's FQP/Average Price": "10456",
+    "Yesterday's FQP/Average Price": "10892",
+    "Change in Price": "-436",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "RahimYarKhan",
+    "CropName": "Bottle Gourd (کدو)",
+    "Today's FQP/Average Price": "2396",
+    "Yesterday's FQP/Average Price": "2266",
+    "Change in Price": "+130",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Wheat",
+    "Today's FQP/Average Price": "5900",
+    "Yesterday's FQP/Average Price": "5788",
+    "Change in Price": "+112",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Rice (IRRI)",
+    "Today's FQP/Average Price": "11600",
+    "Yesterday's FQP/Average Price": "11750",
+    "Change in Price": "-150",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Sugar",
+    "Today's FQP/Average Price": "16500",
+    "Yesterday's FQP/Average Price": "16600",
+    "Change in Price": "-100",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Onion",
+    "Today's FQP/Average Price": "2250",
+    "Yesterday's FQP/Average Price": "2150",
+    "Change in Price": "+100",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Brinjal",
+    "Today's FQP/Average Price": "4100",
+    "Yesterday's FQP/Average Price": "4700",
+    "Change in Price": "-600",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Bitter Gourd (کریلا)",
+    "Today's FQP/Average Price": "6150",
+    "Yesterday's FQP/Average Price": "6500",
+    "Change in Price": "-350",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Apple Kala Kullu (Pahari)",
+    "Today's FQP/Average Price": "34750",
+    "Yesterday's FQP/Average Price": "34500",
+    "Change in Price": "+250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Rice Basmati Super (Old)",
+    "Today's FQP/Average Price": "26500",
+    "Yesterday's FQP/Average Price": "28500",
+    "Change in Price": "-2000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Cabbage",
+    "Today's FQP/Average Price": "2300",
+    "Yesterday's FQP/Average Price": "2550",
+    "Change in Price": "-250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "56250",
+    "Yesterday's FQP/Average Price": "57250",
+    "Change in Price": "-1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Cucumber (Kheera)",
+    "Today's FQP/Average Price": "3700",
+    "Yesterday's FQP/Average Price": "3300",
+    "Change in Price": "+400",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Melon",
+    "Today's FQP/Average Price": "13000",
+    "Yesterday's FQP/Average Price": "11500",
+    "Change in Price": "+1500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Watermelon",
+    "Today's FQP/Average Price": "4750",
+    "Yesterday's FQP/Average Price": "4900",
+    "Change in Price": "-150",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Green Chilli",
+    "Today's FQP/Average Price": "6500",
+    "Yesterday's FQP/Average Price": "6150",
+    "Change in Price": "+350",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Peach",
+    "Today's FQP/Average Price": "18000",
+    "Yesterday's FQP/Average Price": "19500",
+    "Change in Price": "-1500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Sweet Musk Melon",
+    "Today's FQP/Average Price": "12500",
+    "Yesterday's FQP/Average Price": "12150",
+    "Change in Price": "+350",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Bottle Gourd (کدو)",
+    "Today's FQP/Average Price": "2150",
+    "Yesterday's FQP/Average Price": "2750",
+    "Change in Price": "-600",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Zucchini (گھیا توری)",
+    "Today's FQP/Average Price": "4500",
+    "Yesterday's FQP/Average Price": "5150",
+    "Change in Price": "-650",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "BahawalPur",
+    "CropName": "Dates(Irani)",
+    "Today's FQP/Average Price": "43000",
+    "Yesterday's FQP/Average Price": "42950",
+    "Change in Price": "+50",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Tomato",
+    "Today's FQP/Average Price": "1700",
+    "Yesterday's FQP/Average Price": "1600",
+    "Change in Price": "+100",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Brinjal",
+    "Today's FQP/Average Price": "6000",
+    "Yesterday's FQP/Average Price": "6250",
+    "Change in Price": "-250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Lady Finger/Okra (بھنڈی توری)",
+    "Today's FQP/Average Price": "8200",
+    "Yesterday's FQP/Average Price": "6800",
+    "Change in Price": "+1400",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Bitter Gourd (کریلا)",
+    "Today's FQP/Average Price": "6000",
+    "Yesterday's FQP/Average Price": "5800",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Pumpkin",
+    "Today's FQP/Average Price": "3500",
+    "Yesterday's FQP/Average Price": "2200",
+    "Change in Price": "+1300",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Apple Kala Kullu (Pahari)",
+    "Today's FQP/Average Price": "28000",
+    "Yesterday's FQP/Average Price": "28250",
+    "Change in Price": "-250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Apple (Ammre)",
+    "Today's FQP/Average Price": "25500",
+    "Yesterday's FQP/Average Price": "25000",
+    "Change in Price": "+500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Banana(DOZEN)",
+    "Today's FQP/Average Price": "130",
+    "Yesterday's FQP/Average Price": "132",
+    "Change in Price": "-2",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Cabbage",
+    "Today's FQP/Average Price": "1600",
+    "Yesterday's FQP/Average Price": "1800",
+    "Change in Price": "-200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "53000",
+    "Yesterday's FQP/Average Price": "55000",
+    "Change in Price": "-2000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Cucumber (Kheera)",
+    "Today's FQP/Average Price": "3000",
+    "Yesterday's FQP/Average Price": "3400",
+    "Change in Price": "-400",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Watermelon",
+    "Today's FQP/Average Price": "4800",
+    "Yesterday's FQP/Average Price": "4500",
+    "Change in Price": "+300",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Mango (Malda)",
+    "Today's FQP/Average Price": "14500",
+    "Yesterday's FQP/Average Price": "15000",
+    "Change in Price": "-500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Green Chilli",
+    "Today's FQP/Average Price": "6900",
+    "Yesterday's FQP/Average Price": "6800",
+    "Change in Price": "+100",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Capsicum (شملہ مرچ)",
+    "Today's FQP/Average Price": "9200",
+    "Yesterday's FQP/Average Price": "6800",
+    "Change in Price": "+2400",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Lemon (Desi)",
+    "Today's FQP/Average Price": "53750",
+    "Yesterday's FQP/Average Price": "54000",
+    "Change in Price": "-250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Peach",
+    "Today's FQP/Average Price": "19500",
+    "Yesterday's FQP/Average Price": "17500",
+    "Change in Price": "+2000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Plum",
+    "Today's FQP/Average Price": "41000",
+    "Yesterday's FQP/Average Price": "40500",
+    "Change in Price": "+500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Apricot White",
+    "Today's FQP/Average Price": "31000",
+    "Yesterday's FQP/Average Price": "36500",
+    "Change in Price": "-5500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Bottle Gourd (کدو)",
+    "Today's FQP/Average Price": "2400",
+    "Yesterday's FQP/Average Price": "2200",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Zucchini (گھیا توری)",
+    "Today's FQP/Average Price": "6000",
+    "Yesterday's FQP/Average Price": "5700",
+    "Change in Price": "+300",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "Coriander (دھنیا)",
+    "Today's FQP/Average Price": "7200",
+    "Yesterday's FQP/Average Price": "6800",
+    "Change in Price": "+400",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Lodhran",
+    "CropName": "sugarcane(گنڈ یری)",
+    "Today's FQP/Average Price": "8400",
+    "Yesterday's FQP/Average Price": "8200",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mailsi",
+    "CropName": "Maize",
+    "Today's FQP/Average Price": "7013",
+    "Yesterday's FQP/Average Price": "7125",
+    "Change in Price": "-112",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mailsi",
+    "CropName": "Lady Finger/Okra (بھنڈی توری)",
+    "Today's FQP/Average Price": "7400",
+    "Yesterday's FQP/Average Price": "8400",
+    "Change in Price": "-1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mailsi",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "55900",
+    "Yesterday's FQP/Average Price": "57900",
+    "Change in Price": "-2000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mailsi",
+    "CropName": "Melon",
+    "Today's FQP/Average Price": "8900",
+    "Yesterday's FQP/Average Price": "7400",
+    "Change in Price": "+1500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mailsi",
+    "CropName": "Loquat",
+    "Today's FQP/Average Price": "18900",
+    "Yesterday's FQP/Average Price": "22900",
+    "Change in Price": "-4000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Brinjal",
+    "Today's FQP/Average Price": "6000",
+    "Yesterday's FQP/Average Price": "6300",
+    "Change in Price": "-300",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Lady Finger/Okra (بھنڈی توری)",
+    "Today's FQP/Average Price": "8200",
+    "Yesterday's FQP/Average Price": "6800",
+    "Change in Price": "+1400",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Bitter Gourd (کریلا)",
+    "Today's FQP/Average Price": "6000",
+    "Yesterday's FQP/Average Price": "5800",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Apple Kala Kullu (Pahari)",
+    "Today's FQP/Average Price": "31500",
+    "Yesterday's FQP/Average Price": "32000",
+    "Change in Price": "-500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Apple (Ammre)",
+    "Today's FQP/Average Price": "25500",
+    "Yesterday's FQP/Average Price": "25000",
+    "Change in Price": "+500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Cabbage",
+    "Today's FQP/Average Price": "1600",
+    "Yesterday's FQP/Average Price": "1800",
+    "Change in Price": "-200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "53000",
+    "Yesterday's FQP/Average Price": "55250",
+    "Change in Price": "-2250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Cucumber (Kheera)",
+    "Today's FQP/Average Price": "3000",
+    "Yesterday's FQP/Average Price": "3400",
+    "Change in Price": "-400",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Watermelon",
+    "Today's FQP/Average Price": "4800",
+    "Yesterday's FQP/Average Price": "4500",
+    "Change in Price": "+300",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Mango (Malda)",
+    "Today's FQP/Average Price": "14500",
+    "Yesterday's FQP/Average Price": "15000",
+    "Change in Price": "-500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Capsicum (شملہ مرچ)",
+    "Today's FQP/Average Price": "9200",
+    "Yesterday's FQP/Average Price": "6800",
+    "Change in Price": "+2400",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Lemon (Desi)",
+    "Today's FQP/Average Price": "53800",
+    "Yesterday's FQP/Average Price": "54000",
+    "Change in Price": "-200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Peach",
+    "Today's FQP/Average Price": "19500",
+    "Yesterday's FQP/Average Price": "17500",
+    "Change in Price": "+2000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Bottle Gourd (کدو)",
+    "Today's FQP/Average Price": "2400",
+    "Yesterday's FQP/Average Price": "2200",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Zucchini (گھیا توری)",
+    "Today's FQP/Average Price": "6000",
+    "Yesterday's FQP/Average Price": "5800",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "Coriander (دھنیا)",
+    "Today's FQP/Average Price": "7200",
+    "Yesterday's FQP/Average Price": "6800",
+    "Change in Price": "+400",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Kahrorpacca",
+    "CropName": "sugarcane(گنڈ یری)",
+    "Today's FQP/Average Price": "8400",
+    "Yesterday's FQP/Average Price": "8200",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "DunyaPur",
+    "CropName": "Onion",
+    "Today's FQP/Average Price": "2150",
+    "Yesterday's FQP/Average Price": "2100",
+    "Change in Price": "+50",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "DunyaPur",
+    "CropName": "Tomato",
+    "Today's FQP/Average Price": "2100",
+    "Yesterday's FQP/Average Price": "1900",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "DunyaPur",
+    "CropName": "Spinach",
+    "Today's FQP/Average Price": "2650",
+    "Yesterday's FQP/Average Price": "2750",
+    "Change in Price": "-100",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "DunyaPur",
+    "CropName": "Lady Finger/Okra (بھنڈی توری)",
+    "Today's FQP/Average Price": "7900",
+    "Yesterday's FQP/Average Price": "6375",
+    "Change in Price": "+1525",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "DunyaPur",
+    "CropName": "Bitter Gourd (کریلا)",
+    "Today's FQP/Average Price": "5900",
+    "Yesterday's FQP/Average Price": "6100",
+    "Change in Price": "-200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "DunyaPur",
+    "CropName": "Cabbage",
+    "Today's FQP/Average Price": "1650",
+    "Yesterday's FQP/Average Price": "1750",
+    "Change in Price": "-100",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "DunyaPur",
+    "CropName": "Cucumber (Kheera)",
+    "Today's FQP/Average Price": "2900",
+    "Yesterday's FQP/Average Price": "3350",
+    "Change in Price": "-450",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "DunyaPur",
+    "CropName": "Watermelon",
+    "Today's FQP/Average Price": "4500",
+    "Yesterday's FQP/Average Price": "3900",
+    "Change in Price": "+600",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "DunyaPur",
+    "CropName": "Apple Kala Kullu (Madani)",
+    "Today's FQP/Average Price": "32750",
+    "Yesterday's FQP/Average Price": "33750",
+    "Change in Price": "-1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "DunyaPur",
+    "CropName": "Green Chilli",
+    "Today's FQP/Average Price": "6700",
+    "Yesterday's FQP/Average Price": "6925",
+    "Change in Price": "-225",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "DunyaPur",
+    "CropName": "Capsicum (شملہ مرچ)",
+    "Today's FQP/Average Price": "8900",
+    "Yesterday's FQP/Average Price": "6900",
+    "Change in Price": "+2000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "DunyaPur",
+    "CropName": "Bottle Gourd (کدو)",
+    "Today's FQP/Average Price": "2450",
+    "Yesterday's FQP/Average Price": "2350",
+    "Change in Price": "+100",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "JamPur",
+    "CropName": "Ginger(China)",
+    "Today's FQP/Average Price": "55000",
+    "Yesterday's FQP/Average Price": "52000",
+    "Change in Price": "+3000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "JamPur",
+    "CropName": "Tinda Desi",
+    "Today's FQP/Average Price": "5500",
+    "Yesterday's FQP/Average Price": "5250",
+    "Change in Price": "+250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "JamPur",
+    "CropName": "Watermelon",
+    "Today's FQP/Average Price": "4500",
+    "Yesterday's FQP/Average Price": "5000",
+    "Change in Price": "-500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "JamPur",
+    "CropName": "Green Chilli",
+    "Today's FQP/Average Price": "5500",
+    "Yesterday's FQP/Average Price": "4500",
+    "Change in Price": "+1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "JamPur",
+    "CropName": "Sweet Musk Melon (Shireen)",
+    "Today's FQP/Average Price": "21500",
+    "Yesterday's FQP/Average Price": "21000",
+    "Change in Price": "+500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "JamPur",
+    "CropName": "sugarcane(گنڈ یری)",
+    "Today's FQP/Average Price": "8200",
+    "Yesterday's FQP/Average Price": "8150",
+    "Change in Price": "+50",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Narowal",
+    "CropName": "Potato Fresh",
+    "Today's FQP/Average Price": "4100",
+    "Yesterday's FQP/Average Price": "3700",
+    "Change in Price": "+400",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Narowal",
+    "CropName": "Peas",
+    "Today's FQP/Average Price": "17500",
+    "Yesterday's FQP/Average Price": "17000",
+    "Change in Price": "+500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Narowal",
+    "CropName": "Apple Kala Kullu (Pahari)",
+    "Today's FQP/Average Price": "31750",
+    "Yesterday's FQP/Average Price": "33500",
+    "Change in Price": "-1750",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Narowal",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "53000",
+    "Yesterday's FQP/Average Price": "57500",
+    "Change in Price": "-4500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Narowal",
+    "CropName": "Garlic (Local)",
+    "Today's FQP/Average Price": "17500",
+    "Yesterday's FQP/Average Price": "15500",
+    "Change in Price": "+2000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Narowal",
+    "CropName": "Peach",
+    "Today's FQP/Average Price": "21000",
+    "Yesterday's FQP/Average Price": "23000",
+    "Change in Price": "-2000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Narowal",
+    "CropName": "Sweet Musk Melon",
+    "Today's FQP/Average Price": "11000",
+    "Yesterday's FQP/Average Price": "11500",
+    "Change in Price": "-500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chakwal",
+    "CropName": "Sugar",
+    "Today's FQP/Average Price": "16950",
+    "Yesterday's FQP/Average Price": "16850",
+    "Change in Price": "+100",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chakwal",
+    "CropName": "Onion",
+    "Today's FQP/Average Price": "2900",
+    "Yesterday's FQP/Average Price": "3250",
+    "Change in Price": "-350",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chakwal",
+    "CropName": "Garlic (China)",
+    "Today's FQP/Average Price": "31500",
+    "Yesterday's FQP/Average Price": "32250",
+    "Change in Price": "-750",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chakwal",
+    "CropName": "Ginger(China)",
+    "Today's FQP/Average Price": "63500",
+    "Yesterday's FQP/Average Price": "64500",
+    "Change in Price": "-1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chakwal",
+    "CropName": "Tomato",
+    "Today's FQP/Average Price": "3250",
+    "Yesterday's FQP/Average Price": "3100",
+    "Change in Price": "+150",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chakwal",
+    "CropName": "Brinjal",
+    "Today's FQP/Average Price": "5450",
+    "Yesterday's FQP/Average Price": "5350",
+    "Change in Price": "+100",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chakwal",
+    "CropName": "Apple Kala Kullu (Pahari)",
+    "Today's FQP/Average Price": "30500",
+    "Yesterday's FQP/Average Price": "31000",
+    "Change in Price": "-500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chakwal",
+    "CropName": "Banana(DOZEN)",
+    "Today's FQP/Average Price": "180",
+    "Yesterday's FQP/Average Price": "175",
+    "Change in Price": "+5",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chakwal",
+    "CropName": "Guava",
+    "Today's FQP/Average Price": "15250",
+    "Yesterday's FQP/Average Price": "14750",
+    "Change in Price": "+500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chakwal",
+    "CropName": "Mango (Malda)",
+    "Today's FQP/Average Price": "17750",
+    "Yesterday's FQP/Average Price": "17500",
+    "Change in Price": "+250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chakwal",
+    "CropName": "Capsicum (شملہ مرچ)",
+    "Today's FQP/Average Price": "8450",
+    "Yesterday's FQP/Average Price": "8650",
+    "Change in Price": "-200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chakwal",
+    "CropName": "Peach",
+    "Today's FQP/Average Price": "16500",
+    "Yesterday's FQP/Average Price": "17250",
+    "Change in Price": "-750",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chakwal",
+    "CropName": "Apricot Yellow",
+    "Today's FQP/Average Price": "20250",
+    "Yesterday's FQP/Average Price": "20500",
+    "Change in Price": "-250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chakwal",
+    "CropName": "Loquat",
+    "Today's FQP/Average Price": "18250",
+    "Yesterday's FQP/Average Price": "20750",
+    "Change in Price": "-2500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Rice Basmati Super (New)",
+    "Today's FQP/Average Price": "21750",
+    "Yesterday's FQP/Average Price": "21500",
+    "Change in Price": "+250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Rice (IRRI)",
+    "Today's FQP/Average Price": "9550",
+    "Yesterday's FQP/Average Price": "10100",
+    "Change in Price": "-550",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Gram Black",
+    "Today's FQP/Average Price": "25500",
+    "Yesterday's FQP/Average Price": "25750",
+    "Change in Price": "-250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Gram Pulse",
+    "Today's FQP/Average Price": "27500",
+    "Yesterday's FQP/Average Price": "27750",
+    "Change in Price": "-250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Moong Pulse",
+    "Today's FQP/Average Price": "33500",
+    "Yesterday's FQP/Average Price": "35000",
+    "Change in Price": "-1500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Potato Fresh",
+    "Today's FQP/Average Price": "3750",
+    "Yesterday's FQP/Average Price": "3550",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Onion",
+    "Today's FQP/Average Price": "2550",
+    "Yesterday's FQP/Average Price": "2500",
+    "Change in Price": "+50",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Tomato",
+    "Today's FQP/Average Price": "2400",
+    "Yesterday's FQP/Average Price": "2450",
+    "Change in Price": "-50",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Spinach",
+    "Today's FQP/Average Price": "3000",
+    "Yesterday's FQP/Average Price": "2950",
+    "Change in Price": "+50",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Brinjal",
+    "Today's FQP/Average Price": "5750",
+    "Yesterday's FQP/Average Price": "4750",
+    "Change in Price": "+1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Bitter Gourd (کریلا)",
+    "Today's FQP/Average Price": "6250",
+    "Yesterday's FQP/Average Price": "7000",
+    "Change in Price": "-750",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Pumpkin",
+    "Today's FQP/Average Price": "3750",
+    "Yesterday's FQP/Average Price": "2900",
+    "Change in Price": "+850",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Cauliflower",
+    "Today's FQP/Average Price": "9500",
+    "Yesterday's FQP/Average Price": "8750",
+    "Change in Price": "+750",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Mango(Sindhri)",
+    "Today's FQP/Average Price": "27750",
+    "Yesterday's FQP/Average Price": "24500",
+    "Change in Price": "+3250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Cabbage",
+    "Today's FQP/Average Price": "2900",
+    "Yesterday's FQP/Average Price": "2400",
+    "Change in Price": "+500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Mash Pulse(local)",
+    "Today's FQP/Average Price": "40000",
+    "Yesterday's FQP/Average Price": "40500",
+    "Change in Price": "-500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "56500",
+    "Yesterday's FQP/Average Price": "57500",
+    "Change in Price": "-1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Masoor Pulse (Imported)",
+    "Today's FQP/Average Price": "25750",
+    "Yesterday's FQP/Average Price": "26000",
+    "Change in Price": "-250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Mango (Malda)",
+    "Today's FQP/Average Price": "16500",
+    "Yesterday's FQP/Average Price": "13750",
+    "Change in Price": "+2750",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Green Chilli",
+    "Today's FQP/Average Price": "7750",
+    "Yesterday's FQP/Average Price": "8450",
+    "Change in Price": "-700",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Capsicum (شملہ مرچ)",
+    "Today's FQP/Average Price": "9550",
+    "Yesterday's FQP/Average Price": "8750",
+    "Change in Price": "+800",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Peach",
+    "Today's FQP/Average Price": "11250",
+    "Yesterday's FQP/Average Price": "11500",
+    "Change in Price": "-250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Apricot Yellow",
+    "Today's FQP/Average Price": "17750",
+    "Yesterday's FQP/Average Price": "17500",
+    "Change in Price": "+250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Gram Flour (بیسن)",
+    "Today's FQP/Average Price": "26750",
+    "Yesterday's FQP/Average Price": "26500",
+    "Change in Price": "+250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Zucchini (گھیا توری)",
+    "Today's FQP/Average Price": "5750",
+    "Yesterday's FQP/Average Price": "6350",
+    "Change in Price": "-600",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Sweet Potato(شکر قندی)",
+    "Today's FQP/Average Price": "7500",
+    "Yesterday's FQP/Average Price": "7750",
+    "Change in Price": "-250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Rice Kainat (New)",
+    "Today's FQP/Average Price": "22850",
+    "Yesterday's FQP/Average Price": "22750",
+    "Change in Price": "+100",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "sugarcane(گنڈ یری)",
+    "Today's FQP/Average Price": "9750",
+    "Yesterday's FQP/Average Price": "9500",
+    "Change in Price": "+250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Jhang",
+    "CropName": "Loquat",
+    "Today's FQP/Average Price": "13500",
+    "Yesterday's FQP/Average Price": "17500",
+    "Change in Price": "-4000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Nankana",
+    "CropName": "Ginger(China)",
+    "Today's FQP/Average Price": "57000",
+    "Yesterday's FQP/Average Price": "62000",
+    "Change in Price": "-5000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Nankana",
+    "CropName": "Lady Finger/Okra (بھنڈی توری)",
+    "Today's FQP/Average Price": "12000",
+    "Yesterday's FQP/Average Price": "11000",
+    "Change in Price": "+1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Nankana",
+    "CropName": "Tinda Desi",
+    "Today's FQP/Average Price": "9500",
+    "Yesterday's FQP/Average Price": "9250",
+    "Change in Price": "+250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Nankana",
+    "CropName": "Cauliflower",
+    "Today's FQP/Average Price": "8000",
+    "Yesterday's FQP/Average Price": "6500",
+    "Change in Price": "+1500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Nankana",
+    "CropName": "Banana(DOZEN)",
+    "Today's FQP/Average Price": "187",
+    "Yesterday's FQP/Average Price": "185",
+    "Change in Price": "+2",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Nankana",
+    "CropName": "Pomegranate(Kandhari)",
+    "Today's FQP/Average Price": "62000",
+    "Yesterday's FQP/Average Price": "61000",
+    "Change in Price": "+1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Nankana",
+    "CropName": "Mango(Sindhri)",
+    "Today's FQP/Average Price": "23500",
+    "Yesterday's FQP/Average Price": "23750",
+    "Change in Price": "-250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Nankana",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "57000",
+    "Yesterday's FQP/Average Price": "62000",
+    "Change in Price": "-5000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Nankana",
+    "CropName": "Garlic (Local)",
+    "Today's FQP/Average Price": "18000",
+    "Yesterday's FQP/Average Price": "17000",
+    "Change in Price": "+1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Nankana",
+    "CropName": "Capsicum (شملہ مرچ)",
+    "Today's FQP/Average Price": "5500",
+    "Yesterday's FQP/Average Price": "6500",
+    "Change in Price": "-1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Nankana",
+    "CropName": "Sweet Potato(شکر قندی)",
+    "Today's FQP/Average Price": "13500",
+    "Yesterday's FQP/Average Price": "14000",
+    "Change in Price": "-500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Nankana",
+    "CropName": "sugarcane(گنڈ یری)",
+    "Today's FQP/Average Price": "8500",
+    "Yesterday's FQP/Average Price": "7750",
+    "Change in Price": "+750",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Nankana",
+    "CropName": "Loquat",
+    "Today's FQP/Average Price": "13000",
+    "Yesterday's FQP/Average Price": "12250",
+    "Change in Price": "+750",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "ChackJhumra",
+    "CropName": "Onion",
+    "Today's FQP/Average Price": "2250",
+    "Yesterday's FQP/Average Price": "2100",
+    "Change in Price": "+150",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "ChackJhumra",
+    "CropName": "Ginger(China)",
+    "Today's FQP/Average Price": "57500",
+    "Yesterday's FQP/Average Price": "62500",
+    "Change in Price": "-5000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "ChackJhumra",
+    "CropName": "Tomato",
+    "Today's FQP/Average Price": "2100",
+    "Yesterday's FQP/Average Price": "1900",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "ChackJhumra",
+    "CropName": "Lady Finger/Okra (بھنڈی توری)",
+    "Today's FQP/Average Price": "12500",
+    "Yesterday's FQP/Average Price": "13250",
+    "Change in Price": "-750",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "ChackJhumra",
+    "CropName": "Bitter Gourd (کریلا)",
+    "Today's FQP/Average Price": "7750",
+    "Yesterday's FQP/Average Price": "7250",
+    "Change in Price": "+500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "ChackJhumra",
+    "CropName": "Tinda Desi",
+    "Today's FQP/Average Price": "15500",
+    "Yesterday's FQP/Average Price": "14500",
+    "Change in Price": "+1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "ChackJhumra",
+    "CropName": "Mango(Sindhri)",
+    "Today's FQP/Average Price": "26500",
+    "Yesterday's FQP/Average Price": "23500",
+    "Change in Price": "+3000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "ChackJhumra",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "57500",
+    "Yesterday's FQP/Average Price": "62500",
+    "Change in Price": "-5000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "ChackJhumra",
+    "CropName": "Watermelon",
+    "Today's FQP/Average Price": "3250",
+    "Yesterday's FQP/Average Price": "3350",
+    "Change in Price": "-100",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "ChackJhumra",
+    "CropName": "Sweet Musk Melon",
+    "Today's FQP/Average Price": "6750",
+    "Yesterday's FQP/Average Price": "10250",
+    "Change in Price": "-3500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "ChackJhumra",
+    "CropName": "Bottle Gourd (کدو)",
+    "Today's FQP/Average Price": "2900",
+    "Yesterday's FQP/Average Price": "2100",
+    "Change in Price": "+800",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "ChackJhumra",
+    "CropName": "Zucchini (گھیا توری)",
+    "Today's FQP/Average Price": "9250",
+    "Yesterday's FQP/Average Price": "8750",
+    "Change in Price": "+500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "ChackJhumra",
+    "CropName": "Papaya(پپیتا)",
+    "Today's FQP/Average Price": "29500",
+    "Yesterday's FQP/Average Price": "25500",
+    "Change in Price": "+4000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Potato Fresh",
+    "Today's FQP/Average Price": "3600",
+    "Yesterday's FQP/Average Price": "3400",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Onion",
+    "Today's FQP/Average Price": "2600",
+    "Yesterday's FQP/Average Price": "2400",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Lady Finger/Okra (بھنڈی توری)",
+    "Today's FQP/Average Price": "11000",
+    "Yesterday's FQP/Average Price": "12000",
+    "Change in Price": "-1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Bitter Gourd (کریلا)",
+    "Today's FQP/Average Price": "6500",
+    "Yesterday's FQP/Average Price": "6250",
+    "Change in Price": "+250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Tinda Desi",
+    "Today's FQP/Average Price": "15500",
+    "Yesterday's FQP/Average Price": "14000",
+    "Change in Price": "+1500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Cauliflower",
+    "Today's FQP/Average Price": "7500",
+    "Yesterday's FQP/Average Price": "9500",
+    "Change in Price": "-2000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Apple (Ammre)",
+    "Today's FQP/Average Price": "21000",
+    "Yesterday's FQP/Average Price": "21500",
+    "Change in Price": "-500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Banana(DOZEN)",
+    "Today's FQP/Average Price": "165",
+    "Yesterday's FQP/Average Price": "160",
+    "Change in Price": "+5",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Cabbage",
+    "Today's FQP/Average Price": "2250",
+    "Yesterday's FQP/Average Price": "2600",
+    "Change in Price": "-350",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "55500",
+    "Yesterday's FQP/Average Price": "60500",
+    "Change in Price": "-5000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Garlic (Local)",
+    "Today's FQP/Average Price": "12500",
+    "Yesterday's FQP/Average Price": "11000",
+    "Change in Price": "+1500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Cucumber (Kheera)",
+    "Today's FQP/Average Price": "4250",
+    "Yesterday's FQP/Average Price": "3500",
+    "Change in Price": "+750",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Melon",
+    "Today's FQP/Average Price": "8500",
+    "Yesterday's FQP/Average Price": "10500",
+    "Change in Price": "-2000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Capsicum (شملہ مرچ)",
+    "Today's FQP/Average Price": "7500",
+    "Yesterday's FQP/Average Price": "9500",
+    "Change in Price": "-2000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Peach",
+    "Today's FQP/Average Price": "11000",
+    "Yesterday's FQP/Average Price": "11500",
+    "Change in Price": "-500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Peach Special",
+    "Today's FQP/Average Price": "24500",
+    "Yesterday's FQP/Average Price": "23500",
+    "Change in Price": "+1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Mamunkanjan",
+    "CropName": "Coriander (دھنیا)",
+    "Today's FQP/Average Price": "5500",
+    "Yesterday's FQP/Average Price": "4500",
+    "Change in Price": "+1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Onion",
+    "Today's FQP/Average Price": "2150",
+    "Yesterday's FQP/Average Price": "2350",
+    "Change in Price": "-200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Garlic (China)",
+    "Today's FQP/Average Price": "26000",
+    "Yesterday's FQP/Average Price": "26850",
+    "Change in Price": "-850",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Tomato",
+    "Today's FQP/Average Price": "2000",
+    "Yesterday's FQP/Average Price": "2250",
+    "Change in Price": "-250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Spinach",
+    "Today's FQP/Average Price": "1750",
+    "Yesterday's FQP/Average Price": "1900",
+    "Change in Price": "-150",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Lady Finger/Okra (بھنڈی توری)",
+    "Today's FQP/Average Price": "10700",
+    "Yesterday's FQP/Average Price": "11150",
+    "Change in Price": "-450",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Bitter Gourd (کریلا)",
+    "Today's FQP/Average Price": "5700",
+    "Yesterday's FQP/Average Price": "6000",
+    "Change in Price": "-300",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Tinda Desi",
+    "Today's FQP/Average Price": "9750",
+    "Yesterday's FQP/Average Price": "10250",
+    "Change in Price": "-500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Cauliflower",
+    "Today's FQP/Average Price": "9300",
+    "Yesterday's FQP/Average Price": "8850",
+    "Change in Price": "+450",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Peas",
+    "Today's FQP/Average Price": "18650",
+    "Yesterday's FQP/Average Price": "17750",
+    "Change in Price": "+900",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "45000",
+    "Yesterday's FQP/Average Price": "54050",
+    "Change in Price": "-9050",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Cucumber (Kheera)",
+    "Today's FQP/Average Price": "3650",
+    "Yesterday's FQP/Average Price": "3950",
+    "Change in Price": "-300",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Watermelon",
+    "Today's FQP/Average Price": "3300",
+    "Yesterday's FQP/Average Price": "3100",
+    "Change in Price": "+200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Peach",
+    "Today's FQP/Average Price": "14050",
+    "Yesterday's FQP/Average Price": "13150",
+    "Change in Price": "+900",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Apricot Yellow",
+    "Today's FQP/Average Price": "16850",
+    "Yesterday's FQP/Average Price": "15950",
+    "Change in Price": "+900",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Sweet Musk Melon",
+    "Today's FQP/Average Price": "8400",
+    "Yesterday's FQP/Average Price": "8850",
+    "Change in Price": "-450",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "Coriander (دھنیا)",
+    "Today's FQP/Average Price": "2250",
+    "Yesterday's FQP/Average Price": "2800",
+    "Change in Price": "-550",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Chiniot",
+    "CropName": "sugarcane(گنڈ یری)",
+    "Today's FQP/Average Price": "8850",
+    "Yesterday's FQP/Average Price": "9300",
+    "Change in Price": "-450",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Qiladedarsingh",
+    "CropName": "Apple Kala Kullu (Madani)",
+    "Today's FQP/Average Price": "20500",
+    "Yesterday's FQP/Average Price": "18250",
+    "Change in Price": "+2250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Noshehrawirkan",
+    "CropName": "Apple Kala Kullu (Madani)",
+    "Today's FQP/Average Price": "20500",
+    "Yesterday's FQP/Average Price": "18250",
+    "Change in Price": "+2250",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Shakargarh",
+    "CropName": "Potato Fresh",
+    "Today's FQP/Average Price": "4100",
+    "Yesterday's FQP/Average Price": "3700",
+    "Change in Price": "+400",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Shakargarh",
+    "CropName": "Peas",
+    "Today's FQP/Average Price": "17500",
+    "Yesterday's FQP/Average Price": "17000",
+    "Change in Price": "+500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Shakargarh",
+    "CropName": "Apple Kala Kullu (Pahari)",
+    "Today's FQP/Average Price": "31750",
+    "Yesterday's FQP/Average Price": "33500",
+    "Change in Price": "-1750",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Shakargarh",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "53000",
+    "Yesterday's FQP/Average Price": "57500",
+    "Change in Price": "-4500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Shakargarh",
+    "CropName": "Peach",
+    "Today's FQP/Average Price": "21000",
+    "Yesterday's FQP/Average Price": "23000",
+    "Change in Price": "-2000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Shakargarh",
+    "CropName": "Sweet Musk Melon",
+    "Today's FQP/Average Price": "11000",
+    "Yesterday's FQP/Average Price": "11500",
+    "Change in Price": "-500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Potato Fresh",
+    "Today's FQP/Average Price": "4600",
+    "Yesterday's FQP/Average Price": "4200",
+    "Change in Price": "+400",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Onion",
+    "Today's FQP/Average Price": "3900",
+    "Yesterday's FQP/Average Price": "4000",
+    "Change in Price": "-100",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Garlic (China)",
+    "Today's FQP/Average Price": "32500",
+    "Yesterday's FQP/Average Price": "34250",
+    "Change in Price": "-1750",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Spinach",
+    "Today's FQP/Average Price": "4400",
+    "Yesterday's FQP/Average Price": "2600",
+    "Change in Price": "+1800",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Brinjal",
+    "Today's FQP/Average Price": "8500",
+    "Yesterday's FQP/Average Price": "6200",
+    "Change in Price": "+2300",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Bitter Gourd (کریلا)",
+    "Today's FQP/Average Price": "8500",
+    "Yesterday's FQP/Average Price": "7700",
+    "Change in Price": "+800",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Tinda Desi",
+    "Today's FQP/Average Price": "15250",
+    "Yesterday's FQP/Average Price": "12250",
+    "Change in Price": "+3000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Cauliflower",
+    "Today's FQP/Average Price": "13700",
+    "Yesterday's FQP/Average Price": "11250",
+    "Change in Price": "+2450",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Peas",
+    "Today's FQP/Average Price": "21250",
+    "Yesterday's FQP/Average Price": "19250",
+    "Change in Price": "+2000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Turnip",
+    "Today's FQP/Average Price": "6400",
+    "Yesterday's FQP/Average Price": "4200",
+    "Change in Price": "+2200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Radish",
+    "Today's FQP/Average Price": "4400",
+    "Yesterday's FQP/Average Price": "2400",
+    "Change in Price": "+2000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Apple Kala Kullu (Pahari)",
+    "Today's FQP/Average Price": "37250",
+    "Yesterday's FQP/Average Price": "34250",
+    "Change in Price": "+3000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Apple (Golden)",
+    "Today's FQP/Average Price": "18250",
+    "Yesterday's FQP/Average Price": "19250",
+    "Change in Price": "-1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Banana(DOZEN)",
+    "Today's FQP/Average Price": "220",
+    "Yesterday's FQP/Average Price": "19250",
+    "Change in Price": "-19030",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Guava",
+    "Today's FQP/Average Price": "15250",
+    "Yesterday's FQP/Average Price": "14500",
+    "Change in Price": "+750",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Cabbage",
+    "Today's FQP/Average Price": "4400",
+    "Yesterday's FQP/Average Price": "3400",
+    "Change in Price": "+1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Ginger (Thai)",
+    "Today's FQP/Average Price": "73250",
+    "Yesterday's FQP/Average Price": "66250",
+    "Change in Price": "+7000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Cucumber (Kheera)",
+    "Today's FQP/Average Price": "5400",
+    "Yesterday's FQP/Average Price": "5700",
+    "Change in Price": "-300",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Watermelon",
+    "Today's FQP/Average Price": "4200",
+    "Yesterday's FQP/Average Price": "3200",
+    "Change in Price": "+1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Strawberry",
+    "Today's FQP/Average Price": "10250",
+    "Yesterday's FQP/Average Price": "6200",
+    "Change in Price": "+4050",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Green Chilli",
+    "Today's FQP/Average Price": "10250",
+    "Yesterday's FQP/Average Price": "11250",
+    "Change in Price": "-1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Capsicum (شملہ مرچ)",
+    "Today's FQP/Average Price": "7400",
+    "Yesterday's FQP/Average Price": "6200",
+    "Change in Price": "+1200",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Peach",
+    "Today's FQP/Average Price": "20250",
+    "Yesterday's FQP/Average Price": "19250",
+    "Change in Price": "+1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Sweet Musk Melon",
+    "Today's FQP/Average Price": "8200",
+    "Yesterday's FQP/Average Price": "9200",
+    "Change in Price": "-1000",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Bottle Gourd (کدو)",
+    "Today's FQP/Average Price": "5400",
+    "Yesterday's FQP/Average Price": "4900",
+    "Change in Price": "+500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Zucchini (گھیا توری)",
+    "Today's FQP/Average Price": "8500",
+    "Yesterday's FQP/Average Price": "11250",
+    "Change in Price": "-2750",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Fenugreek(میتھی)",
+    "Today's FQP/Average Price": "4400",
+    "Yesterday's FQP/Average Price": "7700",
+    "Change in Price": "-3300",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "Coriander (دھنیا)",
+    "Today's FQP/Average Price": "8200",
+    "Yesterday's FQP/Average Price": "7700",
+    "Change in Price": "+500",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "jujube(بیر)",
+    "Today's FQP/Average Price": "11250",
+    "Yesterday's FQP/Average Price": "8200",
+    "Change in Price": "+3050",
+    "Price Direction": ""
+  },
+  {
+    "CityName": "Sraialamgir",
+    "CropName": "sugarcane(گنڈ یری)",
+    "Today's FQP/Average Price": "12250",
+    "Yesterday's FQP/Average Price": "9200",
+    "Change in Price": "+3050",
+    "Price Direction": ""
+  }
+]
